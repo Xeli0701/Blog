@@ -1,3 +1,11 @@
+---
+title: 環境構築
+date: "2022/12/16"
+description: "環境構築メモ"
+tags: ["Sample"]
+
+---
+
 # 環境構築
 
 -   Alt単体で切り替えられるalt-ime-ahk.exeは便利
