@@ -9,12 +9,12 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `テスト用ブログ`,
+    title: `MiStics Blog`,
     author: {
       name: `Zhelika`,
-      summary: `Test`,
+      summary: ``,
     },
-    description: `Test`,
+    description: ``,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
       twitter: `MiZhelika`,
