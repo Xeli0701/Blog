@@ -9,4 +9,5 @@ tags: ["SNS"]
 -   Misskey: [MiZhelika (@Zhelika) | Misskey.io](https://misskey.io/@Zhelika)
 -   Pixiv: [MiZhelika - pixiv](https://www.pixiv.net/users/20734212)
 -   Instagram: [MiZhelika(@mizhelika) • Instagram](https://www.instagram.com/mizhelika/)
+-   Threads: [ThreadsのMiZhelika (@mizhelika)](https://www.threads.net/@mizhelika)
 -   Discord: zhelika (MiZhelika)
